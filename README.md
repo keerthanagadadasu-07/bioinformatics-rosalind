@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+KEERTHANA GADADASU + 1002247697 + BIOL5340-001
